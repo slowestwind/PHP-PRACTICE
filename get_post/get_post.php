@@ -51,8 +51,11 @@
     </form>
 
     <ul>
+<<<<<<< HEAD
 
       <!-- code stunt -->
+=======
+>>>>>>> 3bb737ce305d55be9de021f99add177b40dca364
       <li>
         <a href="get_post.php?name=Arvind">Arvind</a>
       </li>
