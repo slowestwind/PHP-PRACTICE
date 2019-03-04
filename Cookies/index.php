@@ -1,3 +1,10 @@
+<!--
+Author : Arvind Sharma
+Description : This is practice work on cookie
+contact : slowestwind@gmail.com >
+learning source : travery media
+ -->
+
 <!-- php code -->
 <?php
   // check if the submit button is press or // NOt
