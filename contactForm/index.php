@@ -48,7 +48,7 @@
        if (mail($toEmail, $subject, $body, $header)) {
          // code...
          $msg = "Your Email is sent :)";
-       } else {
+       } else { 
          $msg = "Your Email in not sent";
        }
      }
