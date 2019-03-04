@@ -4,6 +4,14 @@
   $name = $_SESSION['name'];
   $email = $_SESSION['email'];
 
+  # unset function to unset value
+  // unset($_SESSION['name'])
+
+
+  # to Destroy the session
+  // session_destroy();
+
+
  ?>
 
 <!-- html code -->
