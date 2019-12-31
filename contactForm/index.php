@@ -2,7 +2,7 @@
 # Author: Arvind Sharma
 # Description: A Contact Form
 # Contact: slowestwind@gmail.com
-# source : Traversy Media
+
  -->
 
  <!-- php code goes here -->
